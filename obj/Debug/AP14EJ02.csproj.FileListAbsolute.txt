@@ -1,0 +1,36 @@
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\bin\Debug\AP14EJ02.exe.config
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\bin\Debug\AP14EJ02.exe
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\bin\Debug\AP14EJ02.pdb
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\obj\Debug\AP14EJ02.csprojAssemblyReference.cache
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\obj\Debug\AP14EJ02.Form1.resources
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\obj\Debug\AP14EJ02.Properties.Resources.resources
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\obj\Debug\AP14EJ02.csproj.GenerateResource.cache
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\obj\Debug\AP14EJ02.csproj.CoreCompileInputs.cache
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\obj\Debug\AP14EJ02.exe
+C:\Users\sgutierr\Desktop\proyectos\AP14EJ02\obj\Debug\AP14EJ02.pdb
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\bin\Debug\AP14EJ02.exe.config
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\bin\Debug\AP14EJ02.exe
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\bin\Debug\AP14EJ02.pdb
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.csprojAssemblyReference.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.Form1.resources
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.Properties.Resources.resources
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.csproj.GenerateResource.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.csproj.CoreCompileInputs.cache
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.exe
+F:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\bin\Debug\AP14EJ02.exe.config
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\bin\Debug\AP14EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\bin\Debug\AP14EJ02.pdb
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.csprojAssemblyReference.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.Form1.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.Properties.Resources.resources
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.csproj.GenerateResource.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.csproj.CoreCompileInputs.cache
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.exe
+L:\04. PROG - DAM 18-19\Bloque4. Desarrollo de aplicaciones Windows\AP14. Experimentando con Controles de WF\AP14EJ02\obj\Debug\AP14EJ02.pdb
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.csprojAssemblyReference.cache
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.Form1.resources
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.Properties.Resources.resources
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.csproj.GenerateResource.cache
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.exe
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.pdb

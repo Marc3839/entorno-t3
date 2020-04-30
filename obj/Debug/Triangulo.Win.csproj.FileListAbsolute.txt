@@ -1,0 +1,9 @@
+C:\Users\luolu\source\repos\AP14EJ02\bin\Debug\AP14EJ02.exe.config
+C:\Users\luolu\source\repos\AP14EJ02\bin\Debug\AP14EJ02.exe
+C:\Users\luolu\source\repos\AP14EJ02\bin\Debug\AP14EJ02.pdb
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\Triangulo.Win.csprojAssemblyReference.cache
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.Form1.resources
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.Properties.Resources.resources
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\Triangulo.Win.csproj.GenerateResource.cache
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.exe
+C:\Users\luolu\source\repos\AP14EJ02\obj\Debug\AP14EJ02.pdb
